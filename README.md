@@ -1,2 +1,2 @@
 # Java-Batch
-Sample code for 
+Sample code for Batch.
